@@ -1,4 +1,6 @@
 <?php 
-    echo "Es un archivo index creadoo en GitHub";
+    echo "Es un archivo index creado en GitHub";
+    
+    echo "salu2 desde toluca";
 
 ?>
